@@ -1,11 +1,9 @@
 ---
-title: "website"
+title: "Home"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to the official Website of the iGEM Thrace 2025
 
 ```{r}
-1 + 1
+1 +1
 ```
