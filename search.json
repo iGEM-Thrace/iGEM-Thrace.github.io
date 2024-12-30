@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "People"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to the official Website of the iGEM Thrace 2025\n\n1 +1\n\n[1] 2"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact"
   },
   {
     "objectID": "about.html",
