@@ -2,29 +2,29 @@
   {
     "objectID": "people.html",
     "href": "people.html",
-    "title": "People",
+    "title": "\nMeet the Team\n",
     "section": "",
-    "text": "People"
+    "text": "Meet the Team\n\n\n\n\n\n\n\n\nDimitris\n\n\n\n\n\n\n\n\nDimitris\n\n\n\n\n\n\n\n\nDimitris\n\n\n\n\n\n\n\n\n\n\nDimitris\n\n\n\n\n\n\n\n\nDimitris\n\n\n\n\n\n\n\n\nDimitris"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to the official Website of iGEM Thrace 2025",
+    "title": "\nWelcome to the official Website of iGEM Thrace 2025\n",
     "section": "",
-    "text": "Welcome to the official Website of iGEM Thrace 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello, World!\n\n\nThis is a test paragraph."
+    "text": "Welcome to the official Website of iGEM Thrace 2025\n\n\n\n\n\n\n\n\nThis text is on the figure\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\n\n\n\nLink"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Contact"
+    "text": "Contact\nFeel free to reach out to us for collaborations or questions!\n📧 Email: team@example.com\n🌐 Website: Our Project Page"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "&lt;h1&gt;Hello, World!&lt;/h1&gt; &lt;p&gt;This is a test paragraph.&lt;/p&gt;"
+    "text": "Hello, World!\n\n\nThis is a test paragraph."
   }
 ]

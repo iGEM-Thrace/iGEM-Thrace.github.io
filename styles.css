@@ -33,3 +33,35 @@ body {
   width: 100%;
 }
 
+
+
+
+/* Make the header/navbar fixed */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* Ensure it stays above other elements */
+  background-color: #f8f9fa; /* Optional: Navbar background color */
+  border-bottom: 1px solid #ddd; /* Optional: Add a border for separation */
+}
+
+/* Add spacing below the navbar to prevent overlap with content */
+body {
+  margin-top: 70px; /* Adjust this based on your navbar height */
+}
+
+/* Fix the TOC to the left of the page */
+#toc {
+  position: fixed;
+  top: 70px; /* Adjust based on the navbar height */
+  left: 20px; /* Adjust as needed */
+  max-width: 250px; /* Set a maximum width for the TOC */
+  overflow-y: auto; /* Allow scrolling if TOC content is long */
+  height: calc(100vh - 100px); /* Adjust height to fit within the viewport */
+  padding: 10px;
+  background-color: #f8f9fa; /* Optional: TOC background color */
+  border: 1px solid #ddd; /* Optional: Add a border for TOC */
+  z-index: 900; /* Ensure TOC stays below the navbar */
+}
