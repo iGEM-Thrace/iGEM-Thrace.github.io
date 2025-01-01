@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Welcome to the official Website of iGEM Thrace 2025",
     "section": "",
-    "text": "Welcome to the official Website of the iGEM Thrace 2025\n\n1 +1\n\n[1] 2"
+    "text": "Welcome to the official Website of iGEM Thrace 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello, World!\n\n\nThis is a test paragraph."
   },
   {
     "objectID": "contact.html",
@@ -25,6 +25,6 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "&lt;h1&gt;Hello, World!&lt;/h1&gt; &lt;p&gt;This is a test paragraph.&lt;/p&gt;"
   }
 ]
