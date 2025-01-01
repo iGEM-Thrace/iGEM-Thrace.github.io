@@ -1,1 +1,35 @@
 /* css styles */
+
+
+
+/* TOC customization */
+
+/* Increase the size of TOC items */
+.navbar-nav li a {
+  font-size: 1.5em;
+}
+
+/*
+Center the TOC items
+.navbar-nav {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+*/
+
+
+body {
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+}
+
+.container {
+  padding: 0; /* Remove container padding */
+  margin: 0 auto; /* Center the container */
+}
+
+.main {
+  width: 100%;
+}
+

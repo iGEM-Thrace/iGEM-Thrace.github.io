@@ -2,11 +2,11 @@ project:
   type: website
 
 website:
-  title: "Home"
+  #title: "Home"
   navbar:
     left:
-      #- href: index.qmd
-      #  text: Home
+      - href: index.qmd
+        text: Home
       - href: about.qmd
         text: About
       - href: people.qmd
@@ -16,7 +16,19 @@ website:
 
 format:
   html:
+    
+    markdown:
+      strict: false
+    
+    # remove white space from the sides
+    grid:
+      sidebar-width: 0px
+      body-width: 1700px
+      margin-width: 0px
+      #gutter-width: 0.1rem
+    
     theme: cosmo
+    #theme: flatly
     css: styles.css
     toc: true
 
