@@ -17,9 +17,6 @@ website:
 format:
   html:
     
-    markdown:
-      strict: false
-    
     # remove white space from the sides
     grid:
       sidebar-width: 0px

@@ -3,3 +3,7 @@ title: "Contact"
 ---
 
 Contact
+
+Feel free to reach out to us for collaborations or questions!\
+📧 **Email**: [team\@example.com](mailto:team@example.com)\
+🌐 **Website**: [Our Project Page](https://example.com)

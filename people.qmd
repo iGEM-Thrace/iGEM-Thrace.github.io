@@ -1,5 +1,101 @@
 ---
-title: "People"
+#title: "Meet the Team"
+#qbout: jolla
+#image: https://blogimage.vantagecircle.com/content/images/2020/08/teamwork-and-team-building.png
 ---
 
-People
+::: text-center
+<h1>Meet the Team</h1>
+:::
+
+
+::: grid
+
+<!-- Team Member 1 -->
+
+::: g-col-4
+![](https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3BmLWljb240LWppcjIwNjItcG9yLWwtam9iNzg4LnBuZw.png){style="border-radius: 0%; width: 600px;"}
+
+::: {style="text-align: center;"}
+<div style="text-align: center; font-size: 2.0rem; margin: 20px 0">
+
+Dimitris
+
+</div>
+:::
+:::
+
+<!-- Team Member 2 -->
+
+::: g-col-4
+![](https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3BmLWljb240LWppcjIwNjItcG9yLWwtam9iNzg4LnBuZw.png){style="border-radius: 0%; width: 600px;"}
+
+::: {style="text-align: center;"}
+<div style="text-align: center; font-size: 2.0rem; margin: 20px 0">
+
+Dimitris
+
+</div>
+:::
+:::
+
+<!-- Team Member 3 -->
+
+::: g-col-4
+![](https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3BmLWljb240LWppcjIwNjItcG9yLWwtam9iNzg4LnBuZw.png){style="border-radius: 0%; width: 600px;"}
+
+::: {style="text-align: center;"}
+<div style="text-align: center; font-size: 2.0rem; margin: 20px 0">
+
+Dimitris
+
+</div>
+:::
+:::
+:::
+
+
+
+::: grid
+<!-- Team Member 1 -->
+
+::: g-col-4
+![](https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3BmLWljb240LWppcjIwNjItcG9yLWwtam9iNzg4LnBuZw.png){style="border-radius: 0%; width: 600px;"}
+
+::: {style="text-align: center;"}
+<div style="text-align: center; font-size: 2.0rem; margin: 20px 0">
+
+Dimitris
+
+</div>
+:::
+:::
+
+<!-- Team Member 2 -->
+
+::: g-col-4
+![](https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3BmLWljb240LWppcjIwNjItcG9yLWwtam9iNzg4LnBuZw.png){style="border-radius: 0%; width: 600px;"}
+
+::: {style="text-align: center;"}
+<div style="text-align: center; font-size: 2.0rem; margin: 20px 0">
+
+Dimitris
+
+</div>
+:::
+:::
+
+<!-- Team Member 3 -->
+
+::: g-col-4
+![](https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3BmLWljb240LWppcjIwNjItcG9yLWwtam9iNzg4LnBuZw.png){style="border-radius: 0%; width: 600px;"}
+
+::: {style="text-align: center;"}
+<div style="text-align: center; font-size: 2.0rem; margin: 20px 0">
+
+Dimitris
+
+</div>
+:::
+:::
+:::
