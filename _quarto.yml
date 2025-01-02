@@ -13,7 +13,7 @@ website:
         text: People
       - href: contact.qmd
         text: Contact
-
+        
 format:
   html:
     
@@ -28,6 +28,8 @@ format:
     #theme: flatly
     css: styles.css
     toc: true
+    
+    include-after-body: footer.html
 
 editor: visual
 
