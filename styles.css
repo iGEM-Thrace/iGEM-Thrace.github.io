@@ -19,6 +19,7 @@ Center the TOC items
 */
 
 
+
 body {
   margin: 0; /* Remove default margin */
   padding: 0; /* Remove default padding */
@@ -43,8 +44,18 @@ body {
   left: 0;
   width: 100%;
   z-index: 1000; /* Ensure it stays above other elements */
-  background-color: #f8f9fa; /* Optional: Navbar background color */
+  background-color: #377ae8; /* Optional: Navbar background color */
   border-bottom: 1px solid #ddd; /* Optional: Add a border for separation */
+}
+
+/* Make the navbar links text white */
+.navbar .navbar-nav .nav-link {
+  color: white; /* White text */
+}
+
+/* Change link color on hover */
+.navbar .navbar-nav .nav-link:hover {
+  color: #f1c40f; /* Optional: change hover color */
 }
 
 /* Add spacing below the navbar to prevent overlap with content */
@@ -52,16 +63,4 @@ body {
   margin-top: 70px; /* Adjust this based on your navbar height */
 }
 
-/* Fix the TOC to the left of the page */
-#toc {
-  position: fixed;
-  top: 70px; /* Adjust based on the navbar height */
-  left: 20px; /* Adjust as needed */
-  max-width: 250px; /* Set a maximum width for the TOC */
-  overflow-y: auto; /* Allow scrolling if TOC content is long */
-  height: calc(100vh - 100px); /* Adjust height to fit within the viewport */
-  padding: 10px;
-  background-color: #f8f9fa; /* Optional: TOC background color */
-  border: 1px solid #ddd; /* Optional: Add a border for TOC */
-  z-index: 900; /* Ensure TOC stays below the navbar */
-}
+
