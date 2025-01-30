@@ -1,8 +1,9 @@
+
 project:
   type: website
 
 website:
-  #title: "Home"
+  title: "iGEM2025" 
   navbar:
     left:
       - href: index.qmd
@@ -13,23 +14,10 @@ website:
         text: People
       - href: contact.qmd
         text: Contact
-        
 format:
   html:
-    
-    # remove white space from the sides
-    grid:
-      sidebar-width: 0px
-      body-width: 1700px
-      margin-width: 0px
-      #gutter-width: 0.1rem
-    
     theme: cosmo
-    #theme: flatly
     css: styles.css
     toc: true
-    
-    include-after-body: footer.html
 
 editor: visual
-

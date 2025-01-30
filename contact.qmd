@@ -1,9 +1,41 @@
 ---
-title: "Contact"
+#title: "Contact"
+#qbout: jolla
+#image: https://blogimage.vantagecircle.com/content/images/2020/08/teamwork-and-team-building.png
 ---
 
-Contact
+::: contactus
+Επικοινωνήστε με την Ομάδα μας
+:::
 
-Feel free to reach out to us for collaborations or questions!\
-📧 **Email**: [team\@example.com](mailto:team@example.com)\
-🌐 **Website**: [Our Project Page](https://example.com)
+<form action="https://api.web3forms.com/submit" method="POST" class="contact-left">
+
+<input type="hidden" name="access_key" value="bf601493-1eeb-4ffd-b5d6-02b8aefc44d2"> <input class="rounded-input1" type="text" name="Όνομα" placeholder="Ονοματεπώνυμο" required=""> <input class="rounded-input2" type="text" name="email" id="email" placeholder="Email" required=""> <input class="rounded-input3" type="text" name="Μήνυμα" placeholder="Το μήνυμά σας"> <button class="contact" type="submit" value="Αποστολή">Αποστολή</button>
+
+</form>
+
+::: contactsocial
+Ή βρείτε μας:
+:::
+
+<img src="insta.png" alt="insta" class="insta"/> <img src="fb.webp" alt="fb" class="fb"/> <img src="li.webp" alt="linkedin" class="li"/>
+
+<a href="https://www.mbg.duth.gr/"> <img src="logo_moriaki.png" alt="logombg" class="logomor"/> </a>
+
+<a href="https://bisc.uniwa.gr/"> <img src="βιοιατρικων.png" alt="logobio" class="logobio"/> </a>
+
+::: contactinsta
+<a href="https://www.instagram.com/igemthrace/" style="color: white;" >@igemthrace</a>
+:::
+
+::: contactli
+<a href="https://www.linkedin.com/company/igem-thrace/" style="color: white;" >iGEM Thrace</a>
+:::
+
+::: contactfb
+<a href="https://www.facebook.com/igemthrace" style="color: white;" >iGEM Thrace</a>
+:::
+
+::: footco
+2025 iGEM Thrace. All rights reserved.
+:::

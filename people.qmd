@@ -4,82 +4,288 @@
 #image: https://blogimage.vantagecircle.com/content/images/2020/08/teamwork-and-team-building.png
 ---
 
-::: text-center
-<h1>Meet the Team</h1>
+::: gap
 :::
 
-::: grid
+::: mem
+Γνωρίστε την Ομάδα μας
+:::
+
+:::::::::::: grid
 <!-- Team Member 1 -->
 
-::: g-col-4
-![](https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3BmLWljb240LWppcjIwNjItcG9yLWwtam9iNzg4LnBuZw.png){style="border-radius: 0%; width: 600px;"}
+::::: g-col-4
+:::: team-member
+<img src="Τούντα Κατερίνα.jpg" width="300"/>
 
-::: {style="text-align: center;"}
-::: {style="text-align: center; font-size: 2.0rem; margin: 20px 0"}
-Dimitris
+::: name
+Τούντα Κατερίνα - Συντονίστρια/Human Practices
+
+2nd year undergraduate student, Department of Molecular Biology and Genetics, Democritus University of Thrace
 :::
-:::
-:::
+::::
+:::::
 
 <!-- Team Member 2 -->
 
-::: g-col-4
-![](https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3BmLWljb240LWppcjIwNjItcG9yLWwtam9iNzg4LnBuZw.png){style="border-radius: 0%; width: 600px;"}
+::::: g-col-4
+:::: team-member
+<img src="Δημήτρης Βλάχος.jpg" width="300"/>
 
-::: {style="text-align: center;"}
-::: {style="text-align: center; font-size: 2.0rem; margin: 20px 0"}
-Dimitris
+::: name
+Βλάχος Δημήτρης - Dry Lab
+
+4th year undergraduate student, Department of Molecular Biology and Genetics, Democritus University of Thrace
 :::
-:::
-:::
+::::
+:::::
 
 <!-- Team Member 3 -->
 
-::: g-col-4
-![](https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3BmLWljb240LWppcjIwNjItcG9yLWwtam9iNzg4LnBuZw.png){style="border-radius: 0%; width: 600px;"}
+::::: g-col-4
+:::: team-member
+<img src="Μουρατίδου Κάτια.jpg" width="300"/>
 
-::: {style="text-align: center;"}
-::: {style="text-align: center; font-size: 2.0rem; margin: 20px 0"}
-Dimitris
-:::
-:::
-:::
-:::
+::: name
+Μουρατίδου Κάτια - Web Development
 
-::: grid
+1st year undergraduate student, Department of Molecular Biology and Genetics, Democritus University of Thrace
+:::
+::::
+:::::
+::::::::::::
+
+:::::::::::: grid
 <!-- Team Member 1 -->
 
-::: g-col-4
-![](https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3BmLWljb240LWppcjIwNjItcG9yLWwtam9iNzg4LnBuZw.png){style="border-radius: 0%; width: 600px;"}
+::::: g-col-4
+:::: team-member
+<img src="Σοφία.jpg" width="300"/>
 
-::: {style="text-align: center;"}
-::: {style="text-align: center; font-size: 2.0rem; margin: 20px 0"}
-Dimitris
+::: name
+Σγαρδέλη Σοφία - Human Practices
+
+2nd year undergraduate student, Department of Molecular Biology and Genetics, Democritus University of Thrace
 :::
-:::
-:::
+::::
+:::::
 
 <!-- Team Member 2 -->
 
-::: g-col-4
-![](https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3BmLWljb240LWppcjIwNjItcG9yLWwtam9iNzg4LnBuZw.png){style="border-radius: 0%; width: 600px;"}
+::::: g-col-4
+:::: team-member
+<img src="Ελεάννα.jpeg" width="300"/>
 
-::: {style="text-align: center;"}
-::: {style="text-align: center; font-size: 2.0rem; margin: 20px 0"}
-Dimitris
+::: name
+Ελεάννα Μπαχαροπούλου - Wet Lab
+
+3rd year undergraduate student, Department of Molecular Biology and Genetics, Democritus University of Thrace
 :::
-:::
-:::
+::::
+:::::
 
 <!-- Team Member 3 -->
 
-::: g-col-4
-![](https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3BmLWljb240LWppcjIwNjItcG9yLWwtam9iNzg4LnBuZw.png){style="border-radius: 0%; width: 600px;"}
+::::: g-col-4
+:::: team-member
+<img src="Στέφανος Κούκος.png" width="300"/>
 
-::: {style="text-align: center;"}
-::: {style="text-align: center; font-size: 2.0rem; margin: 20px 0"}
-Dimitris
+::: name
+Κούκος Στεφανος - Social Media & Graphics
+
+4th year undergraduate student, Department of Molecular Biology and Genetics, Democritus University of Thrace
 :::
+::::
+:::::
+::::::::::::
+
+:::::::::::: grid
+<!-- Team Member 1 -->
+
+::::: g-col-4
+:::: team-member
+<img src="Βυζαντιανή.jpg" width="300"/>
+
+::: name
+Καντζίκη Βυζαντιανή - Fundraising
+
+1st year undergraduate student, Department of Molecular Biology and Genetics, Democritus University of Thrace
 :::
+::::
+:::::
+
+<!-- Team Member 2 -->
+
+::::: g-col-4
+:::: team-member
+<img src="Μαρία Δημητριάδου.jpg" width="300"/>
+
+::: name
+Δημητριάδου Μαρία - Human Practices
+
+1st year undergraduate student, Department of Molecular Biology and Genetics, Democritus University of Thrace
 :::
+::::
+:::::
+
+<!-- Team Member 3 -->
+
+::::: g-col-4
+:::: team-member
+<img src="Ζώη Ελένη.jpg" width="300"/>
+
+::: name
+Ζώη Ελένη - Wet Lab
+
+3rd year undergraduate student, Department of Molecular Biology and Genetics, Democritus University of Thrace
 :::
+::::
+:::::
+::::::::::::
+
+::::::::: grid
+<!-- Team Member 1 -->
+
+::::: g-col-4
+:::: team-member
+<img src="Αλεξάνδρα.jpeg" width="300"/>
+
+::: name
+Τσώνη Αλεξάνδρα - Social Media & Graphic
+
+1st year undergraduate student, Department of Biomedical Engineering, University of West Attica
+:::
+::::
+:::::
+
+<!-- Team Member 2 -->
+
+::::: g-col-4
+:::: team-member
+<img src="Χριστοδούλη.jpg" width="300"/>
+
+::: name
+Σολωμού Χριστοδούλη - Wet Lab
+
+3rd year undergraduate student, Department of Molecular Biology and Genetics, Democritus University of Thrace
+:::
+::::
+:::::
+:::::::::
+
+::: black-gap
+:::
+
+::: advisors
+Γνωρίστε τους Instructors
+:::
+
+:::::::::::: grid
+<!-- Team Member 1 -->
+
+::::: g-col-4
+:::: team-member
+<img src="Τουλιόπουλος Σωτήριος.jpg" width="300"/>
+
+::: name
+Τουλιόπουλος Σωτήρης
+
+Research Associate Fellow, KU Leuven Department of Molecular Biology and Genetics, Democritus University of Thrace
+:::
+::::
+:::::
+
+<!-- Team Member 2 -->
+
+::::: g-col-4
+:::: team-member
+<img src="Μαριλένα.jpg" width="300"/>
+
+::: name
+Τσάτσου Μαρία Ελένη
+
+3rd year undergraduate student, Department of Molecular Biology and Genetics, Democritus University of Thrace
+:::
+::::
+:::::
+
+<!-- Team Member 3 -->
+
+::::: g-col-4
+:::: team-member
+<img src="marg.jpg" width="300"/>
+
+::: name
+Γερανοπούλου Μαργαρίτα
+
+Forensic Science, King’s College London Department of Molecular Biology and Genetics, Democritus University of Thrace
+:::
+::::
+:::::
+::::::::::::
+
+:::::::::::: grid
+<!-- Team Member 1 -->
+
+::::: g-col-4
+:::: team-member
+<img src="Αθανασία.jpg" width="300"/>
+
+::: name
+Αραμπατζή Αθανασία
+
+4th year undergraduate student, Department of Molecular Biology and Genetics, Democritus University of Thrace Undergraduate trainee, Institute of Applied Biosciences, CERTH
+:::
+::::
+:::::
+
+<!-- Team Member 2 -->
+
+::::: g-col-4
+:::: team-member
+<img src="Σωτήρης Δημητριάδης.jpg" width="300"/>
+
+::: name
+Δημητριάδης Σωτήρης
+
+MSc Student at Data Science and Information Technologies, Department of Informatics and Telecommunications, National and Kapodistrian University of Athens Department of Molecular Biology and Genetics, Democritus University of Thrace
+:::
+::::
+:::::
+
+<!-- Team Member 3 -->
+
+::::: g-col-4
+:::: team-member
+<img src="Αδαμαντία.jpg" width="300"/>
+
+::: name
+Κουλούρη Αδαμαντία
+
+1st Year PhD Student, Baylor College of Medicine, Houston, Texas, USA
+:::
+::::
+:::::
+::::::::::::
+
+:::::: grid
+<!-- Team Member 1 -->
+
+::::: g-col-4
+:::: team-member
+<img src="Αλέξανδρος.jpg" width="300"/>
+
+::: name
+Σκούρης Αλέξανδρος
+
+PhD Candidate in Infection, Immunity and Inflammation, Rutgers University, USA
+:::
+::::
+:::::
+::::::
+
+::: footpe
+2025 iGEM Thrace. All rights reserved.
+:::
+
+<a href="https://www.instagram.com/igemthrace/"><img src="insta.png" alt="insta" class="instape"/></a> <a href="https://www.linkedin.com/company/igem-thrace/"><img src="li.webp" alt="linkedin" class="lipe"/></a> <a href="https://www.facebook.com/igemthrace" ><img src="fb.webp" alt="fb" class="fbpe"/></a>

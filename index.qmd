@@ -1,47 +1,91 @@
 ---
-#title: "Welcome to the official Website of iGEM Thrace 2025"
+#title: "iGEM2025"
+#qbout: jolla
+#image: https://blogimage.vantagecircle.com/content/images/2020/08/teamwork-and-team-building.png
 ---
 
-::: {style="position: relative; text-align: center; width: 100%;"}
-<!-- Image --> ![](https://images.squarespace-cdn.com/content/v1/5c0571c05cfd7950e5a84c99/1700490319484-OY9JWXIWAS5KDJUVS8ZW/53321032184_8a62c974fa_k.jpg?format=1000w){fig-align="center" width="1800"}
+:::titleh
+iGEM Thrace
+:::
 
-<!-- Text Overlay -->
+:::titleh1
+2025
+:::
 
-::: {style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); display: flex; align-items: center; justify-content: center; color: white; font-size: 2rem; font-weight: bold; background-color: #377ae8; padding: 10px 20px; border-radius: 5px; line-height: 1;"}
-         
+<!-- Video Element -->
+
+<video autoplay muted loop>
+
+<source src="dna.mp4" type="video/mp4">
+
+</video>
+
+::: image-container
+<img src="bledaki.webp"/>
+:::
+
+::: image-container2
+<img src="dble.jpg"/>
+:::
+
+:::::: image-container3
+::: gradient-overlay1
+:::
+
+::: gradient-overlay2
+:::
+
+::: gradient-overlay3
+:::
+
+<img src="bledaki.webp"/>
+::::::
+
+::: title1
+Τι είναι ο iGEM;
+:::
+
+::: text1
+Ο διαγωνισμός iGEM (international Genetically Engineered Machine) είναι ένας παγκόσμιος διαγωνισμός συνθετικής βιολογίας που διοργανώθηκε για πρώτη φορά το 2003 από το πανεπιστήμιο MIT. Φοιτητές καλούνται να διεξάγουν τη δική τους έρευνα, παράγοντας καινοτόμες και βιώσιμες λύσεις σε διάφορους τομείς όπως η διάγνωση και η θεραπεία ασθενειών ή η προστασία του περιβάλλοντος. Κάθε χρόνο ο διαγωνισμός κορυφώνεται με μια τετραήμερη έκθεση (Grand Jamboree), όπου ομάδες από όλο τον κόσμο που συμμετείχαν στον διαγωνισμό παρουσιάζουν τα έργα τους, κρίνονται και βραβεύονται για αυτά.
+:::
+
+::: text
 iGEM Thrace 2025
-
-:::
 :::
 
-::: grid
-<!-- First Column -->
-
-::: g-col-6
-![](https://evrospost.gr/wp-content/uploads/2023/04/11114371-53c5-d632-8565-d9b781d56dc5.jpg){fig-align="center" width="900"}
+::: textsmall
+Η ομάδα της iGEM Thrace επιστρέφει ανανεωμένη για τον διαγωνισμό του 2025, με στόχο να φτάσει και να ξεπράσει τις επιδόσεις των προηγούμενων ετών. Με καινοτόμες ιδέες και εργατικότητα ευελπιστούμε να κερδίσουμε υψηλές διακρίσεις στον διαγωνισμό και να προσφέρουμε νέα ευρήματα στον κόσμο της Συνθετικής Βιολογίας.  
 :::
 
-<!-- Second Column -->
-
-::: g-col-6
-::: {style="text-align: justify; font-size: 1.6rem; margin: 20px 0"}
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum has been
-:::
-:::
+::: titlepr
+Η ιστορία της Ομάδας
 :::
 
-::: grid
-<!-- Second Column -->
-
-::: g-col-6
-::: {style="text-align: justify; font-size: 1.6rem; margin: 20px 0"}
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum has been
-:::
+::: linklearn
+<a href="about.qmd" style="color: #4fa7ff;">Μάθε περισσότερα για την Ομάδα</a>
 :::
 
-<!-- First Column -->
+::: previous
+Η iGEM Thrace έχει έως σήμερα κατακτήσει ένα χρυσό μετάλλιο (2021) και ένα αργυρό (2023). Η δουλειά τον προηγούμενων ετών βρίσκεται στους παρακάτω συνδέσμους:
+:::
 
-::: g-col-6
-![](https://evrospost.gr/wp-content/uploads/2023/04/11114371-53c5-d632-8565-d9b781d56dc5.jpg){fig-align="center" width="900"}
+::: links
+<a href="https://2021.igem.org/Team:Thrace" style="color:  #0818A8;" >Wiki 2021 (Gold)</a> <a href="https://2023.igem.wiki/thrace/index.html" style="color: #0818A8;" >Wiki 2023 (Silver)</a>
 :::
+
+![](Untitled-4.png){.logo1}
+
+::: footin
+2025 iGEM Thrace. All rights reserved.
 :::
+
+<a href="https://www.instagram.com/igemthrace/"><img src="insta.png" alt="insta" class="instain"/></a> <a href="https://www.linkedin.com/company/igem-thrace/"><img src="li.webp" alt="linkedin" class="liin"/></a> <a href="https://www.facebook.com/igemthrace" ><img src="fb.webp" alt="fb" class="fbin"/></a>
+
+
+<ul class="slideshow">
+    <li><span></span></li>
+    <li><span></span></li>
+    <li><span></span></li>
+    <li><span></span></li>
+    <li><span></span></li>
+</ul>
